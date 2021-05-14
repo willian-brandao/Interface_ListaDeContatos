@@ -1,0 +1,2 @@
+rootProject.name = "Interface_ListaDeContatos"
+include ':app'
