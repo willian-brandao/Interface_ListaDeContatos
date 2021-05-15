@@ -1,4 +1,4 @@
-package com.will.interface_listadecontatos
+package com.will.ContactMe
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4

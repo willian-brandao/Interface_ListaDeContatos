@@ -1,4 +1,4 @@
-package com.will.interface_listadecontatos
+package com.will.ContactMe
 
 import org.junit.Test
 

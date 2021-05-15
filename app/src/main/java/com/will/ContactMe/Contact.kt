@@ -1,4 +1,4 @@
-package com.will.interface_listadecontatos
+package com.will.ContactMe
 
 //class to represent each contact
 data class Contact(
