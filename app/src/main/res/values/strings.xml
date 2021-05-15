@@ -1,4 +1,8 @@
 <resources>
     <string name="app_name">Interface_ListaDeContatos</string>
     <string name="iv_photograph_content_description">iv_photograph_content_description</string>
+    <string name="menu_1">Item 1</string>
+    <string name="menu_2">Item 2</string>
+    <string name="menu_3">Item 3</string>
+    <string name="menu_4">Item 4</string>
 </resources>
