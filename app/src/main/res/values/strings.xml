@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Interface_ListaDeContatos</string>
+    <string name="app_name">CONTACTS</string>
     <string name="iv_photograph_content_description">iv_photograph_content_description</string>
 
     <string name="menu_1">Item 1</string>
@@ -7,7 +7,7 @@
     <string name="menu_3">Item 3</string>
     <string name="menu_4">Item 4</string>
 
-    <string name="open_drawer">open</string>
-    <string name="close_drawer">close</string>
+    <string name="open_drawer">open_drawer</string>
+    <string name="close_drawer">close_drawer</string>
 
 </resources>
